@@ -1,0 +1,18 @@
+{
+    "name": "bitcoin-notifier",
+    "version": "1.0.1",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Victor del Carpio",
+    "license": "ISC",
+    "devDependencies": {},
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "http": "0.0.1-security",
+        "twilio": "^3.56.0"
+    }
+}
